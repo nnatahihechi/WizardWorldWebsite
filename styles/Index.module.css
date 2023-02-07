@@ -1,0 +1,8 @@
+.body {
+    /* background-image: url("/images/WizardWorld_Thumbnail_0 copy.jpg"); */
+    background-color: #1b1e3f;
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
